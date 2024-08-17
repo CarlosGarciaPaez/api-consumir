@@ -27,5 +27,5 @@ El proyecto utiliza las siguientes dependencias:
 - ApiResponse: Modelo de datos para representar la estructura de la respuesta JSON de la API externa.
 
 ## Imagen de Ejemplo en Postman
-![Ejemplo prueba en postman](images/example.png)
+![Ejemplo prueba en postman](images/consumir.png)
 
